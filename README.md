@@ -1,5 +1,3 @@
-![Frontend Web Developer](https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png)
-
 ### Hi there 👋, I'm Shafayet Hossain
 #### Frontend Web Developer
 
@@ -21,5 +19,5 @@ Skills:  REACT / JS / HTML / CSS/Bootstrap/Redux/Sass/TypeScript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafayet1372&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shafayet1372)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shafayet1372)  
 
